@@ -1,3 +1,6 @@
+# Ignore changes to the settings.json file for vscode
+settings.json
+
 # Logs
 logs
 *.log
